@@ -1,2 +1,2 @@
-# PressureWashingProject
-Client site for pressure washing
+# Pressure Washing Project
+Client site for a pressure washing company.
