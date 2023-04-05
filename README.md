@@ -1,6 +1,6 @@
 <img align="center" src="images/readpr.png" alt="website homepage" />
 
-<h1 align="center">Pressure Washing Project</>
+<h1 align="center">Parada Restoration</h1>
 
 Client site for a local pressure washing company.
 
